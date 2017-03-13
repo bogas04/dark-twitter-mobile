@@ -1,0 +1,11 @@
+[role="main"], [role="main"] div {
+  background-color: #000;
+}
+
+[role="banner"] div, [role="banner"] a {
+  background-color: #050505;
+}
+
+[role="main"] span, [role="banner"] span {
+  color: white;
+}

@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Dark Twitter Mobile",
+  "version": "0.0.1",
+  "description": "Dark mode for mobile.twitter.com",
+  "icons": {
+    "16": "img/logo.png",
+    "48": "img/logo.png",
+    "128": "img/logo.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://mobile.twitter.com/*", "https://mobile.twitter.com/*"],
+      "css": ["css/index.css"]
+    }
+  ],
+  "permissions": [
+    "http://mobile.twitter.com/*", "https://mobile.twiter.com/*"
+  ]
+}
+
