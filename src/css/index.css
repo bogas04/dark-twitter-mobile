@@ -1,11 +1,14 @@
+[role="main"] span, [role="banner"] span, textarea, [dir="auto"] {
+  color: #eaeaea !important;
+}
+
 [role="main"], [role="main"] div {
-  background-color: #000;
+  background-color: #213548 !important;
 }
 
 [role="banner"] div, [role="banner"] a {
-  background-color: #050505;
+  background-color: #21303f !important;
 }
-
-[role="main"] span, [role="banner"] span {
-  color: white;
+[role="article"] a > div, [aria-label^="Timeline"] > div > div > div {
+  border-color: #324e62 !important;
 }

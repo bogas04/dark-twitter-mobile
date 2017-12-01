@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Dark Mobile Twitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dark mode for mobile.twitter.com",
   "icons": {
     "16": "img/logo.png",
