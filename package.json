@@ -1,6 +1,6 @@
 {
   "name": "dark-mobile-twitter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Web Extension to make mobile.twitter.com Night friendly.",
   "main": "index.js",
   "scripts": {
